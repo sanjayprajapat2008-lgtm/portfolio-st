@@ -1,0 +1,13 @@
+Passionate B.Tech Computer Science student specializing in Artificial Intelligence and Machine Learning at the Jodhpur Institute of Engineering & Technology. I am driven by a deep fascination with how AI can solve complex, real-world problems. 
+
+With a strong foundation in Python and Java, I actively build robust applications—such as my "Jarvis Voice Assistant," which utilizes speech recognition and automation libraries, and various predictive machine learning models. Beyond AI, I am highly focused on mastering Data Structures and Algorithms to write optimized, scalable code.
+
+I am a quick learner, an effective communicator, and a proactive problem solver. Currently, I am seeking internship and entry-level Software Engineering or AI/ML Engineer roles where I can contribute my technical skills, collaborate with innovative teams, and continue growing as a developer.
+
+Tech Stack & Skills:
+🔹 Languages: Python, Java (Basic)
+🔹 Domain: Artificial Intelligence, Machine Learning, Computer Vision, Data Analysis
+🔹 Tools: Git, GitHub, VS Code
+🔹 Core Competencies: Data Structures & Algorithms, Problem Solving, Software Development
+
+Let's connect! I am always open to discussing technology, innovative projects, and new opportunities.
